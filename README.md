@@ -129,3 +129,12 @@ Applied suitable outlier treatment techniques to improve data quality.
 - Found and handled anomalies in data
 - Explored correlations between ride-related variables
 - Improved data quality through preprocessing
+
+
+## 📊 Dataset
+ 
+- ☁️ External Link: [Download Full Dataset](https://drive.google.com/file/d/1y7x7KdYdtstO3bNyfO3gS__PXHBr-3Qd/view?usp=drive_link)
+
+## 👨‍💻 Author
+
+**Uppalapu Sharath Reddy**
